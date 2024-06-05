@@ -1,0 +1,7 @@
+C:\Users\Fede Velho\Desktop\Proyecto\LibreriaCodigo\C#\Codigos c#\bin\Debug\Codigos c#.exe.config
+C:\Users\Fede Velho\Desktop\Proyecto\LibreriaCodigo\C#\Codigos c#\bin\Debug\Codigos c#.exe
+C:\Users\Fede Velho\Desktop\Proyecto\LibreriaCodigo\C#\Codigos c#\bin\Debug\Codigos c#.pdb
+C:\Users\Fede Velho\Desktop\Proyecto\LibreriaCodigo\C#\Codigos c#\obj\Debug\Codigos c#.csproj.AssemblyReference.cache
+C:\Users\Fede Velho\Desktop\Proyecto\LibreriaCodigo\C#\Codigos c#\obj\Debug\Codigos c#.csproj.CoreCompileInputs.cache
+C:\Users\Fede Velho\Desktop\Proyecto\LibreriaCodigo\C#\Codigos c#\obj\Debug\Codigos c#.exe
+C:\Users\Fede Velho\Desktop\Proyecto\LibreriaCodigo\C#\Codigos c#\obj\Debug\Codigos c#.pdb
